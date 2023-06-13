@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "money:one_hundred_dollars"
+    }
+  ],
+  "result": {
+    "item": "money:fifty_dollars",
+    "count": 2
+  }
+}
